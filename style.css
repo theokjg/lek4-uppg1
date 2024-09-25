@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+body{
+    background-image: url(./img/showcase\ \(1\).jpg);
+}
+
+h2{
+    text-align: center;
+}
+
+h1{
+    color: blue;
+    background-color: yellow;
+    font-family:"Roboto Mono";
+    text-align: center;
+
+}
+
+.artikel{
+    background-color: lightgray;
+    border: 3px solid black;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.artikel2{
+    background-color: lightgray;
+    border: 3px solid black;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.artikel3{
+    background-color: lightgray;
+    border: 3px solid black;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.apa{
+    text-align: center;
+}
